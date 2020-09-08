@@ -1,5 +1,5 @@
 package Project1;
-
+//import scanner
 import java.util.Scanner;
 
 public class Main {
